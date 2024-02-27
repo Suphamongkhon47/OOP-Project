@@ -5,7 +5,8 @@
   *id:66114540755
   *name: ศุภมงคล ไชยสุวรรณ
 
-## techonology:[pygame/streamlit]
+## techonology:
+[pygame/streamlit]
 
 ## application description:
 รายละเอียดโครงงาน
