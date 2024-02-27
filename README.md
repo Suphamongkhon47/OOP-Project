@@ -1,16 +1,16 @@
-#application title
+# application title
 
-##author: 
+## author: 
 
   *id:66114540755
   *name: ศุภมงคล ไชยสุวรรณ
 
-##techonology:[pygame/streamlit]
+## techonology:[pygame/streamlit]
 
-##application description:
+## application description:
 รายละเอียดโครงงาน
 
-##presentation:
+## presentation:
   [slice/carva/etc...] link [public/ubu]
 
 ## video: 
