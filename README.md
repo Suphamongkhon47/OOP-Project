@@ -12,7 +12,7 @@
 รายละเอียดโครงงาน
 
 ## presentation:
-  [slice/carva/etc...] link [public/ubu]
+  [slice/canva] link [[public/ubu](https://drive.google.com/file/d/1_6cAwl-ajLP0GCYiYMtoHJC333oAvfnR/view?usp=sharing)https://drive.google.com/file/d/1_6cAwl-ajLP0GCYiYMtoHJC333oAvfnR/view?usp=sharing]
 
 ## video: 
 link[public/ubu]
