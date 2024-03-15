@@ -15,4 +15,4 @@
   [slice/canva] link [[public/ubu](https://drive.google.com/file/d/1_6cAwl-ajLP0GCYiYMtoHJC333oAvfnR/view?usp=sharing)https://drive.google.com/file/d/1_6cAwl-ajLP0GCYiYMtoHJC333oAvfnR/view?usp=sharing]
 
 ## video: 
-link[public/ubu]
+link[[public/ubu](https://drive.google.com/file/d/1qflM-aODnyduB5kB88qQpPJxNl8lwn2h/view?usp=sharing)https://drive.google.com/file/d/1qflM-aODnyduB5kB88qQpPJxNl8lwn2h/view?usp=sharing]
